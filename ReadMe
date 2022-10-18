@@ -6,7 +6,7 @@ Requirements*
 3- tensorflow 2.3.0 
 
 
-To run any of the scripts it is required to check the "trainfile, validationfile and testfile" datapaths, then
+To run any of the scripts it is required to check the "trainfile, validationfile and testfile" datapaths,
 running command is ==> python file_name e.g. "python DeepMR.py --dataset 'frappe' --lr 0.00009 --hidden_units 511 --num_blocks_items 1 --alpha 0.8 --num_epochs 110 --num_heads 7 --dropout_rate 0.35 --l2_emb 0.03 --num_Fields 10 --batch_size 512"
 
 
